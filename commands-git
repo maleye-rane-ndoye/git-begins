@@ -1,1 +1,8 @@
-Les conflits surviennent généralement lorsque deux personnes ont modifié les mêmes lignes dans un fichier, ou si un développeur a supprimé un fichier alors qu'un autre développeur le modifiait. Dans ces cas, Git ne peut pas déterminer automatiquement la version correcte. Les conflits n'affectent que le développeur qui effectue le merge, les autres membres de l'équipe ne sont pas conscients du conflit. Git marquera le fichier comme étant en conflit et arrêtera le processus de merge. Il incombe alors aux développeurs de résoudre le conflit.
+Les conflits surviennent généralement lorsque deux personnes ont modifié
+les mêmes lignes dans un fichier, ou si un développeur a supprimé
+un fichier alors qu'un autre développeur le modifiait. Dans ces cas,
+Git ne peut pas déterminer automatiquement la version correcte.
+Les conflits n'affectent que le développeur qui effectue le merge,
+les autres membres de l'équipe ne sont pas conscients du conflit. 
+Git marquera le fichier comme étant en conflit et arrêtera 
+le processus de merge. Il incombe alors aux développeurs de résoudre le conflit.
