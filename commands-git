@@ -3,4 +3,5 @@ git add
 git commit
 git push
 git pull
-
+git branch 'branch name'
+git switch 'branch name'
